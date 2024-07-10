@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MCQGameReact/static/css/main.79253b92.css",
+    "main.js": "/MCQGameReact/static/js/main.6c6ff496.js",
+    "static/js/453.6ed28962.chunk.js": "/MCQGameReact/static/js/453.6ed28962.chunk.js",
+    "index.html": "/MCQGameReact/index.html",
+    "main.79253b92.css.map": "/MCQGameReact/static/css/main.79253b92.css.map",
+    "main.6c6ff496.js.map": "/MCQGameReact/static/js/main.6c6ff496.js.map",
+    "453.6ed28962.chunk.js.map": "/MCQGameReact/static/js/453.6ed28962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79253b92.css",
+    "static/js/main.6c6ff496.js"
+  ]
+}
